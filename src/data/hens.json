@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 2,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 3,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 4,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 5,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 6,
+    "coopID": 8,
+    "alive": 1
+  },
+  {
+    "id": 7,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 8,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 9,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 10,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 11,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 12,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 13,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 14,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 15,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 16,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 17,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 18,
+    "coopID": 8,
+    "alive": 1
+  },
+  {
+    "id": 19,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 20,
+    "coopID": 8,
+    "alive": 1
+  },
+  {
+    "id": 21,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 22,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 23,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 24,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 25,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 26,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 27,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 28,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 29,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 30,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 31,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 32,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 33,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 34,
+    "coopID": 8,
+    "alive": 1
+  },
+  {
+    "id": 35,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 36,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 37,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 38,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 39,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 40,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 41,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 42,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 43,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 44,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 45,
+    "coopID": 8,
+    "alive": 1
+  },
+  {
+    "id": 46,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 47,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 48,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 49,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 50,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 51,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 52,
+    "coopID": 8,
+    "alive": 1
+  },
+  {
+    "id": 53,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 54,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 55,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 56,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 57,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 58,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 59,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 60,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 61,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 62,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 63,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 64,
+    "coopID": 8,
+    "alive": 1
+  },
+  {
+    "id": 65,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 66,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 67,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 68,
+    "coopID": 4,
+    "alive": 1
+  },
+  {
+    "id": 69,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 70,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 71,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 72,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 73,
+    "coopID": 8,
+    "alive": 1
+  },
+  {
+    "id": 74,
+    "coopID": 7,
+    "alive": 1
+  },
+  {
+    "id": 75,
+    "coopID": 8,
+    "alive": 1
+  },
+  {
+    "id": 76,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 77,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 78,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 79,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 80,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 81,
+    "coopID": 6,
+    "alive": 1
+  },
+  {
+    "id": 82,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 83,
+    "coopID": 3,
+    "alive": 1
+  },
+  {
+    "id": 84,
+    "coopID": 9,
+    "alive": 1
+  },
+  {
+    "id": 85,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 86,
+    "coopID": 5,
+    "alive": 1
+  },
+  {
+    "id": 87,
+    "coopID": 1,
+    "alive": 1
+  },
+  {
+    "id": 88,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 89,
+    "coopID": 2,
+    "alive": 1
+  },
+  {
+    "id": 90,
+    "coopID": 8,
+    "alive": 1
+  }
+]
