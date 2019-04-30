@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import { Admin, Resource } from 'react-admin';
+import { HenList } from './hens';
+import { CoopList } from './coops';
+import { TreatmentList } from './treatments';
+
+import fakeDataProvider from 'ra-data-fakerest';
+
+const dataProvider = fakeDataProvider(require('./data/data.js'));
+const App = () => (
+    <Admin dataProvider={dataProvider}>
+        <Resource name="treatments" list={TreatmentList} />
+        <Resource name="coops" list={CoopList} />
+        <Resource name="hens" list={HenList} />
+    </Admin>
+);
 
 export default App;
