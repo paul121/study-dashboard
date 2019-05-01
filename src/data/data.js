@@ -1,4 +1,5 @@
 var hens = require('./hens.json');
+var hen_weights = require('./hen_weights.json');
 
 module.exports = {
   "treatments": [
@@ -18,4 +19,5 @@ module.exports = {
     {"id":9, "name":"Coop 9", "treatmentID":1, "location":"field"},
   ],
   "hens": hens,
+  "hen_weights": hen_weights,
 }
